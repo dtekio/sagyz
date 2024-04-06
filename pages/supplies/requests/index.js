@@ -56,7 +56,7 @@ class RequestIndex extends Component {
           <Header>
             <Row>
               <HeaderCell>ID</HeaderCell>
-              <HeaderCell>Описание</HeaderCell>
+              <HeaderCell>Описание (Название компаний, местоположение, количество перевозок, категория продукта, изменения состояния товара)</HeaderCell>
               <HeaderCell>Кол-во</HeaderCell>
               <HeaderCell>Получатель</HeaderCell>
               <HeaderCell>Кол-во одобрений</HeaderCell>
