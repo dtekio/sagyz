@@ -49,7 +49,7 @@ class RequestNew extends Component {
         <h3>Создать запрос</h3>
         <Form onSubmit={this.onSubmit} error={!!this.state.errorMessage}>
           <Form.Field>
-            <label>Описание</label>
+            <label>Описание (Название компаний, местоположение, количество перевозок, категория продукта, изменения состояния товара)</label>
             <Input
               value={this.state.description}
               onChange={(event) =>
