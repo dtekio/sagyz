@@ -17,20 +17,20 @@
 
 ## Скриншоты сайта
 Главная страница
-![home page](img/home.png)
+![home page](public/img/home.png)
 
 
 Страница создания поставки
-![supplycreate](img/supplycreate.png)
+![supplycreate](public/img/supplycreate.png)
 
 
 Страница данных поставки
-![supply](img/supply.png)
+![supply](public/img/supply.png)
 
 
 Страница запросов вывода денег
-![requests](img/requests.png)
+![requests](public/img/requests.png)
 
 
 Страница создания запроса
-![(requestcreate](img/requestcreate.png)
+![(requestcreate](public/img/requestcreate.png)
