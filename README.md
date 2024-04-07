@@ -14,7 +14,8 @@
 **ВАЖНО** для взаимодействия с контрактами в сайте - иметь скачанным metamask ([скачать](https://chromewebstore.google.com/detail/nkbihfbeogaeaoehlefnkodbefgpgknn)) в браузере и иметь некоторое количество тестовой валюты (sepoliaETH). Для того, чтобы ее получить введите адрес своего кошелька на [сайте](https://www.infura.io/faucet/sepolia)
 
 [**Доказательство нахождения контракта на блокчейне ethereum'а**](https://sepolia.etherscan.io/address/0xcd65FC3E6CB920c1394686eE997Af71D8CeF4aea)
-[Видео-демонстрация](https://youtu.be/Kqteu_h99aY?si=YM9UIuvMCfINjszF)
+
+[**Видео-демонстрация**](https://youtu.be/Kqteu_h99aY?si=YM9UIuvMCfINjszF)
 ## Скриншоты сайта
 Главная страница
 ![home page](public/img/home.png)
